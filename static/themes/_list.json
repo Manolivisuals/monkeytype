@@ -643,5 +643,10 @@
     "name": "moonlight",
     "bgColor" : "#1f2730",
     "textColor":"#c69f68"
-  }  
+  }  ,
+  {
+    "name": "evil_eye",
+    "bgColor": "#0084c2",
+    "textColor": "#171718"
+  }
 ]
